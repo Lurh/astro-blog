@@ -143,7 +143,7 @@ export const infoLinks = [
   {
     icon: 'ri-github-fill',
     name: 'github',
-    outlink: 'https://github.com/cirry/astro-yi',
+    outlink: 'https://github.com/Lurh/astro-blog',
   },
   // {
   //   icon: 'ri-rss-fill',
@@ -216,18 +216,19 @@ export const comment = {
 
   // giscus config
   giscusConfig: {
-    'data-repo': "",
-    'data-repo-id': "",
-    'data-category': "",
-    'data-category-id': "",
-    'data-mapping': "",
-    'data-strict': "",
-    'data-reactions-enabled': "",
-    'data-emit-metadata': "",
-    'data-input-position': "",
-    'data-theme': "",
-    'data-lang': "",
-    'crossorigin': "",
+    'data-repo': "Lurh/astro-blog",
+    'data-repo-id': "R_kgDOO2seKA",
+    'data-category': "Announcements",
+    'data-category-id': "DIC_kwDOO2seKM4CrFEt",
+    'data-mapping': "pathname",
+    'data-strict': "0",
+    'data-reactions-enabled': "1",
+    'data-emit-metadata': "0",
+    'data-input-position': "top",
+    'data-theme': "preferred_color_scheme",
+    'data-lang': "zh-CN",
+    "data-loading": "lazy",
+    'crossorigin': "anonymous",
   }
 
   //
